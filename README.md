@@ -1,6 +1,6 @@
-#STAT545_homework_ass1
+# STAT545_homework_ass1
 
-##Zachary Sherker
+## Zachary Sherker
 
 This is a repository for the *first* homework assignment completed by Zachary Sherker for **STAT545**.
 
